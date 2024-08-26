@@ -1,4 +1,4 @@
-# Desafio Tarken
+# Meteor Challenge
 
 ![](img/meteor_challenge_01.png)
 
